@@ -14,7 +14,7 @@
   },
   "require": {
     "php": ">=7.1",
-    "twig/twig": "~2.11",
+    "twig/twig": "~3.11",
     "symfony/dotenv": "4.3.4",
     "ext-json": "*"
   },
